@@ -1,3 +1,11 @@
+## Other framework and library examples
+- [Vue](https://github.com/se/kelime-oyunu-vue)
+- [Angular](https://github.com/selcukkutuk/kelime-oyunu-angular)
+- [Svelte](https://github.com/selcukkutuk/kelime-oyunu-svelte)
+- [Stencil](https://github.com/selcukkutuk/kelime-oyunu-stencil)
+- [Nuxt](https://github.com/selcukkutuk/kelime-oyunu-nuxt)
+- [Aurelia](https://github.com/selcukkutuk/kelime-oyunu-aurelia)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
